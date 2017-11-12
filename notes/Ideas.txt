@@ -6,3 +6,10 @@ We will then add Background
 then the ground.
 the ground will randomly spawn with different materials with varying values The Deeper you go the more expensive the ore gets
 We can acheive this by setting depths and figuring out how to measure it.
+enemys eventually
+UI
+Inventory
+items
+Upgrades available in the town
+Health and Oxygen for deeper depths
+A interactable town
