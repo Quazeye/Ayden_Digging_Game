@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "rm_game",
     "id": "0aad835a-31f4-4690-9e67-bc8e77e800d7",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "5f214ae4-abe7-4d3e-9346-21e0b0adf269"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+                {"name": "inst_30436D61","id": "5f214ae4-abe7-4d3e-9346-21e0b0adf269","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_30436D61","objId": "c56b1c59-0a60-483b-9cd0-335c3be1a9c0","rotation": 0,"scaleX": 0.6923077,"scaleY": 0.890785,"mvc": "1.0","x": 512,"y": 480}
             ],
             "layers": [
 
