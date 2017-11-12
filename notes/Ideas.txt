@@ -4,3 +4,5 @@ First we will add in the player
 ART IS A MUST IN THIS PROJECT.
 We will then add Background
 then the ground.
+the ground will randomly spawn with different materials with varying values The Deeper you go the more expensive the ore gets
+We can acheive this by setting depths and figuring out how to measure it.
